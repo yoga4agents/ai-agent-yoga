@@ -36,6 +36,9 @@ python real_browser.py
 
 You should get something like this: 
 
+![Agent History](agent_history.gif)
+
+
 ```bash
 INFO     [browser_use] BrowserUse logging setup complete with level info
 INFO     [root] Anonymized telemetry enabled. See https://docs.browser-use.com/development/telemetry for more information.
